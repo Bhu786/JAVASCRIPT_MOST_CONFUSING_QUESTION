@@ -141,7 +141,7 @@ Callback vs higher-order function. What are they and what is the difference? The
 
 ---
 
-### ChatGPT said:
+
 
 It’s easy to get confused between **callbacks** and **higher-order functions** because they both involve passing functions as arguments. Let me clarify each term and explain the difference.
 
@@ -213,7 +213,7 @@ Does that clear up the confusion for you?
 ### Question:  
 *Can both callback functions and higher-order functions appear in the same code?*
 
-### ChatGPT said:
+
 Yes, both callback functions and higher-order functions can appear in the same code, and they often do. In fact, in many cases, a higher-order function will use a callback as part of its logic.
 
 ### Example of Both in the Same Code:
@@ -284,7 +284,7 @@ This is a common pattern in JavaScript, especially with asynchronous operations.
 ### Question:  
 *Can we say that the whole function is an HOF and arguments are callbacks?*
 
-### ChatGPT said:
+
 Yes, that's a good way to think about it in many cases!
 
 ### Conceptualization:
